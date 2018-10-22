@@ -13,10 +13,11 @@
     width: 260px;
     margin-left: 0px;
     border : 0px;
-    color: white;
-    background: black;  
-    height: 20px;
-    text-align: right;  
+    color: black;
+    background-image: linear-gradient(to right,orange,yellow);
+    height: 40px;
+    text-align: right; 
+    font-size: 25px; 
 }
 
 .container{
